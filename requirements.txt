@@ -1,7 +1,7 @@
-streamlit
-pandas
-plotly
-numpy
-fpdf2
+streamlit>=1.45
+pandas>=2.3
+plotly>=6.0
 openpyxl
 xlsxwriter
+fpdf2
+numpy
