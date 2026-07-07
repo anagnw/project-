@@ -4,4 +4,4 @@ plotly>=6.0
 openpyxl
 xlsxwriter
 fpdf2
-numpy
+numpy 
