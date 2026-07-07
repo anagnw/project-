@@ -1,7 +1,7 @@
 streamlit
 pandas
 plotly
+numpy
 fpdf2
 openpyxl
 xlsxwriter
-numpy
